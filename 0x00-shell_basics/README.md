@@ -1,1 +1,1 @@
-Print current working directory
+This is the folder for the scripts
