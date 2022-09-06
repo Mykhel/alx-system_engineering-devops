@@ -1,0 +1,4 @@
+18-letteronly18-letteronly#!/bin/bash
+egrep ^[[:alpha:]] /etc/ssh/sshd_config#!/bin/bash
+egrep ^[[:alpha:]] /etc/ssh/sshd_config#!/bin/bash
+egrep ^[[:alpha:]] /etc/ssh/sshd_config
