@@ -1,2 +1,2 @@
 ### Scripting
-readme file for *0x06-regular_expressions* directory
+Readme file for *0x06-regular_expressions* directory.

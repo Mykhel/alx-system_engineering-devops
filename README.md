@@ -1,1 +1,2 @@
-This directory is for alx system engineering devops
+### Shell Basics
+Readme file for alx-system_engineering-devops repo

@@ -1,1 +1,3 @@
-This is the file directory for all script
+### Shell Scripting
+Readme file for shell basics folder.  
+Folder contains executable shell scripts
